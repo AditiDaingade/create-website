@@ -369,7 +369,7 @@ nav{
     color: #0000ff;
 }
 
-@media (max-width:500px){
+@media (max-width:900px){
     .play-video{
         flex-basis: 100%;
     }
